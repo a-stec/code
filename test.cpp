@@ -9,8 +9,9 @@ int main() {
     int a = 6;
     int b = 3;
     int c = 2;
+    int d = 5;
     
-    cout << a + b + c << endl;
+    cout << a + b + c + d << endl;
     return 0;
 }
 
